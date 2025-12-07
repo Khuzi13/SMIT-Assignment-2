@@ -112,7 +112,7 @@ This analysis provides a complete understanding of sales patterns, profit behavi
 Add your Colab / GitHub Notebook link here:
 
 🔗 **Colab Notebook:** https://colab.research.google.com/drive/1wKpr9W81O87yJFjTc9Kv8H8B6xW9zOY6?usp=sharing  
-🔗 **GitHub Notebook:** _Add Link Here_
+🔗 **GitHub Notebook:** https://github.com/Khuzi13/SMIT-Assignment-2/blob/main/Sample_Superstore_csv.ipynb
 
 ---
 
